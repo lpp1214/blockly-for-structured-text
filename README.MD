@@ -13,3 +13,5 @@ Alongside the language, an editor was also developed. The editor support program
 * Function blocks
 * Programs
 * Tasks
+
+[try it!](https://fvito.github.io/blockly-for-structured-text/#)
